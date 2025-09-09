@@ -1,0 +1,11 @@
+from,to,distance_km,time_min,cost
+Chennai,Bangalore,350,360,800
+Bangalore,Hyderabad,570,540,1000
+Chennai,Hyderabad,630,720,1200
+Hyderabad,Pune,560,510,1100
+Pune,Mumbai,150,180,400
+Hyderabad,Mumbai,710,780,1300
+Bangalore,Pune,840,900,1400
+Chennai,Pune,910,1000,1500
+Chennai,Mumbai,1330,1440,2000
+Bangalore,Mumbai,980,1020,1600
